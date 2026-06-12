@@ -1,0 +1,34 @@
+cd ..
+cd filepath
+ls
+ls -a
+git clone
+git status
+Untracked files
+modified files
+staged files
+commited files
+git add filename
+git add .
+git commit -m "message"
+gitpush origin main (origin->github repo name, main->branch)
+mkdir filename
+git init
+git remote add origin https://github.com/Fazal-IITH/localrepo.git
+git remote -v
+git branch
+git branch -M  newname
+git push origin main
+git push -u origin main
+
+git branch
+git branch -M main
+git checkout nextbranchname
+git checkout -b newbranch name
+git checkout -d deletebranchname
+
+git merge branchname
+
+git pull origin main
+
+Pull request(PR)
